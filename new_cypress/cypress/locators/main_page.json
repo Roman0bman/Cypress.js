@@ -1,0 +1,10 @@
+{
+"title": "#form > .header",
+"email": "#mail",
+"password": "#pass",
+"login_button": "#loginButton",
+"fogot_pass": "#forgotEmailButton",
+"footer": ".link",
+"nevalidmail": "germandoln.ru",
+"validmail": "german@dolnikov.ru"
+}
